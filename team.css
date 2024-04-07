@@ -1,0 +1,10 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body img {
+    object-fit: cover;
+    height: 100%; /* Set the height to 100% of the viewport height */
+    width: 100%;
+    /* Position the image at the left */
+}
